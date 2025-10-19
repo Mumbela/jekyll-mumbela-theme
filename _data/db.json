@@ -1,0 +1,32 @@
+{
+    "website": [
+        {
+            "brand": "mumbela.github.io",
+            "link": "https://mumbela.github.io/"
+        }
+    ],
+    "navbar": [
+        {
+            "name": "Home",
+            "link": "/"
+        },
+        {
+            "name": "Blog",
+            "link": "/blog/"
+        }
+    ],
+    "footer": [
+        {
+            "name": "About Us",
+            "link": "/about/"
+        },
+        {
+            "name": "Contact Us",
+            "link": "/contact/"
+        },
+        {
+            "name": "Terms",
+            "link": "/terms/"
+        }
+    ]
+}
